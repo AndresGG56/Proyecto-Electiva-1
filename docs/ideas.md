@@ -7,6 +7,7 @@ Aplicación móvil que reconoce alimentos a partir de fotos tomadas con la cáma
 Aplicaciones similares:
 
 Foodvisor
+
 Yazio
 
 
@@ -17,6 +18,8 @@ Aplicación que combina la funcionalidad de almacenamiento de tarjetas, boletos 
 Aplicaciones similares:
 
 Apple Wallet
+
 Fintonic
+
 Spendee
 
