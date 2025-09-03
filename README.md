@@ -1,8 +1,8 @@
-# Nombre de la aplicación
+# FooTino
 
-Reemplace este texto con una descripción de su aplicación. Revise el archivo [HELP.md](HELP.md) donde hay mas información sobre como usar esta plantilla.
+Aplicación móvil que reconoce alimentos a partir de fotos tomadas con la cámara del teléfono y proporciona información nutricional detallada, como calorías, macronutrientes y beneficios para la salud, además de sugerir recetas relacionadas. Está dirigida a personas que desean controlar su alimentación, mejorar sus hábitos nutricionales o aprender nuevas formas de preparar los alimentos que consumen..
 
-Autor(es): Nombre del estudiante
+Autor: Andres Felipe Guzman Guzman
 
 ## Referencias
 
